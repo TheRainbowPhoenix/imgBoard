@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html><head>
+  <meta charset="UTF-8">
+  <title>imgBoard - Test JSON page</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
+  <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" ></script>
+  <script type="text/javascript" src="https://rawgithub.com/silviomoreto/bootstrap-select/master/dist/js/bootstrap-select.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Quicksand" />
+
+  <style>
+  html,body {font-family: Quicksand;}
+  </style>
+
+  </head>
+<body>
+
+<h2>imgBoard JSON Parsing test</h2>
+
+<p id="parsertest"></p>
+<p id="parsertest2"></p>
+<p id="parsertest3"></p>
+
+<script>
+
+var xmlhttp = new XMLHttpRequest();
+xmlhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        myArr = JSON.parse(this.responseText);
+        for (i = 0; i < myArr.length; i++) {
+          if (myArr[i].name == "pip") alert("pip ok");
+          document.getElementById("parsertest3").innerHTML = document.getElementById("parsertest3").innerHTML + " " + myArr[i].name;
+           }
+
+    }
+};
+xmlhttp.open("GET", "Users.json", true);
+xmlhttp.send();
+
+// var xmlhttp = new XMLHttpRequest();
+// xmlhttp.onreadystatechange = function() {
+//     if (this.readyState == 4 && this.status == 200) {
+//         myArr = JSON.parse(this.responseText);
+//         document.getElementById("parsertest3").innerHTML = myArr.cars[0];
+//     }
+// };
+// xmlhttp.open("GET", "BoardsList.json", true);
+// xmlhttp.send();
+
+var xmlhttp = new XMLHttpRequest();
+xmlhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        myObj = JSON.parse(this.responseText);
+        document.getElementById("parsertest2").innerHTML = myObj.name;
+    }
+};
+xmlhttp.open("GET", "BoardsList.json", true);
+xmlhttp.send();
+
+var obj = JSON.parse('{ "name":"John", "age":30, "city":"New York"}');
+document.getElementById("parsertest").innerHTML = obj.name + ", " + obj.age;
+
+</script>
+
+</body>
+</html>

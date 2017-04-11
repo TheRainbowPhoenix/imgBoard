@@ -1,0 +1,162 @@
+11-04-2017, 13:01:02|1|users.php-::1@admin|Log was cleaned
+11-04-2017, 13:01:08|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:02:10|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:03:50|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:05:32|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:05:50|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:07:20|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:07:46|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:08:19|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:09:55|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:12:17|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:16:24|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:17:39|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:18:23|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:23:27|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:25:13|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:25:32|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:32:00|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917520-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:32:00|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:32:09|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917529-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:32:09|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:32:37|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917557-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:32:37|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:32:37|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917557-1.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:32:37|1|users.php-::1@admin|Log have been exported on ./export/Log.exported-1491917557-1.zip
+11-04-2017, 13:33:28|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917608-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:33:28|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:33:28|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917608-1.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:33:28|1|users.php-::1@admin|Log have been exported on ./export/Log.exported-1491917608-1.zip
+11-04-2017, 13:33:35|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917615-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:33:35|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:33:35|2|users.php-::1@admin|./export/Log.exported-1491917520-0.zip have been deleted
+11-04-2017, 13:33:35|1|users.php-::1@admin|./export/Log.exported-1491917520-0.zip have been deleted
+11-04-2017, 13:33:45|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917625-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:33:45|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:33:45|2|users.php-::1@admin|./export/Log.exported-1491917615-0.zip have been deleted
+11-04-2017, 13:33:45|1|users.php-::1@admin|./export/Log.exported-1491917615-0.zip have been deleted
+11-04-2017, 13:34:37|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917677-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:34:37|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:34:37|3|users.php-::1@admin|./export/Log.exported-1491917615-0.zip cannot be deleted
+11-04-2017, 13:34:37|2|users.php-::1@admin|./export/Log.exported-1491917615-0.zip cannot be deleted, check if file exists
+11-04-2017, 13:34:50|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917690-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:34:50|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:34:50|2|users.php-::1@admin|./export/Log.exported-1491917677-0.zip have been deleted
+11-04-2017, 13:34:50|1|users.php-::1@admin|./export/Log.exported-1491917677-0.zip have been deleted
+11-04-2017, 13:34:55|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917695-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:34:55|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:34:55|2|users.php-::1@admin|./export/Log.exported-1491917690-0.zip have been deleted
+11-04-2017, 13:34:55|1|users.php-::1@admin|./export/Log.exported-1491917690-0.zip have been deleted
+11-04-2017, 13:34:57|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917697-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:34:57|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:34:57|2|users.php-::1@admin|./export/Log.exported-1491917695-0.zip have been deleted
+11-04-2017, 13:34:57|1|users.php-::1@admin|./export/Log.exported-1491917695-0.zip have been deleted
+11-04-2017, 13:35:01|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917701-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:35:01|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:35:01|2|users.php-::1@admin|./export/Log.exported-1491917697-0.zip have been deleted
+11-04-2017, 13:35:01|1|users.php-::1@admin|./export/Log.exported-1491917697-0.zip have been deleted
+11-04-2017, 13:35:05|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917704-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:35:05|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:35:05|2|users.php-::1@admin|./export/Log.exported-1491917701-0.zip have been deleted
+11-04-2017, 13:35:05|1|users.php-::1@admin|./export/Log.exported-1491917701-0.zip have been deleted
+11-04-2017, 13:35:07|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917707-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:35:07|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:35:07|2|users.php-::1@admin|./export/Log.exported-1491917704-0.zip have been deleted
+11-04-2017, 13:35:07|1|users.php-::1@admin|./export/Log.exported-1491917704-0.zip have been deleted
+11-04-2017, 13:35:09|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917709-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:35:09|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:35:09|2|users.php-::1@admin|./export/Log.exported-1491917132-0.zip have been deleted
+11-04-2017, 13:35:09|1|users.php-::1@admin|./export/Log.exported-1491917132-0.zip have been deleted
+11-04-2017, 13:35:11|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917711-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:35:11|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:35:11|2|users.php-::1@admin|./export/Log.exported-1491917529-0.zip have been deleted
+11-04-2017, 13:35:11|1|users.php-::1@admin|./export/Log.exported-1491917529-0.zip have been deleted
+11-04-2017, 13:35:15|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917715-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:35:16|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:35:16|2|users.php-::1@admin|./export/Log.exported-1491917711-0.zip have been deleted
+11-04-2017, 13:35:16|1|users.php-::1@admin|./export/Log.exported-1491917711-0.zip have been deleted
+11-04-2017, 13:36:34|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917794-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:36:34|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:36:34|3|users.php-::1@admin|./export/Log.exported-1491917711-0.zip cannot be deleted
+11-04-2017, 13:36:34|2|users.php-::1@admin|./export/Log.exported-1491917711-0.zip cannot be deleted, check if file exists
+11-04-2017, 13:36:38|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917798-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:36:38|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:36:38|2|users.php-::1@admin|Files in ./export/ matching with *.zip have been deleted
+11-04-2017, 13:38:28|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917908-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:38:28|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:38:28|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917908-1.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:38:28|1|users.php-::1@admin|Log have been exported on ./export/Log.exported-1491917908-1.zip
+11-04-2017, 13:38:31|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917911-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:38:31|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:38:31|2|users.php-::1@admin|Files in ./export/ matching with *.* have been deleted
+11-04-2017, 13:38:42|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917922-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:38:42|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:38:42|3|users.php-::1@admin|Files in ./ cannot be deleted, check if Users.tmp-*.json is valid
+11-04-2017, 13:39:19|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917959-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:39:19|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:39:19|3|users.php-::1@admin|Files in ./?QMa cannot be deleted, check if Users.tmp-*.json is valid
+11-04-2017, 13:39:29|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491917969-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:39:29|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:39:29|3|users.php-::1@admin|Files in ./ cannot be deleted, check if Users.tmp-*.json is valid
+11-04-2017, 13:43:35|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491918215-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:43:35|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:43:40|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491918220-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:43:40|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:43:40|3|users.php-::1@admin|Files in ./export/ cannot be deleted, check if Users.tmp-*.json is valid
+11-04-2017, 13:44:23|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491918263-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:44:23|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:44:23|2|users.php-::1@admin|Files in ./export/ matching with *.* have been deleted
+11-04-2017, 13:44:38|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491918278-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:44:38|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:44:38|2|users.php-::1@admin|Files in ./a/ matching with Users.tmp-*.json have been deleted
+11-04-2017, 13:49:40|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491918580-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:49:40|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:49:56|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491918596-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:49:56|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:49:56|2|users.php-::1@admin|Files in ./a/ matching with Users.tmp-*.json have been deleted
+11-04-2017, 13:50:32|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491918632-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 13:50:32|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 13:50:32|3|users.php-::1@admin|Files in ./a/ cannot be deleted, check if Users.tmp-*.json is valid
+11-04-2017, 14:20:33|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491920433-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:20:33|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 14:20:55|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491920455-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:20:55|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 14:22:06|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491920526-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:22:06|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 14:22:41|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491920561-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:22:41|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 14:24:10|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491920650-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:24:10|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 14:25:02|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491920702-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:25:02|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 14:25:48|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491920748-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:25:48|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 14:30:05|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491921005-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:30:05|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 14:30:34|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491921034-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:30:34|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 14:31:29|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491921089-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:31:29|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 14:34:54|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491921294-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:34:54|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 14:34:54|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491921294-1.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:34:54|1|users.php-::1@admin|Log have been exported on ./export/Log.exported-1491921294-1.zip
+11-04-2017, 14:36:10|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491921370-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:36:11|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 14:36:11|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491921371-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:36:11|1|users.php-::1@admin|Log have been exported on ./export/Log.exported-1491921371-0.zip
+11-04-2017, 14:36:20|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491921380-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:36:20|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 14:36:20|2|users.php-::1@admin|Files in ./export/ matching with *.* have been deleted
+11-04-2017, 14:36:24|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491921384-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:36:24|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 14:36:24|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491921384-1.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:36:24|1|users.php-::1@admin|Log have been exported on ./export/Log.exported-1491921384-1.zip
+11-04-2017, 14:58:14|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491922694-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:58:15|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 14:58:15|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491922695-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:58:15|1|users.php-::1@admin|Log have been exported on ./export/Log.exported-1491922695-0.zip
+11-04-2017, 14:58:41|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491922721-0.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:58:41|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 14:58:41|0|log.php-::1@admin|A log archive have been created on ./export/ nammed Log.exported-1491922721-1.zip . Zip returned statut 0 and compressed 1 file(s)
+11-04-2017, 14:58:41|1|users.php-::1@admin|Log have been exported on ./export/Log.exported-1491922721-1.zip

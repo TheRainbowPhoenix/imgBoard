@@ -1,0 +1,253 @@
+10-04-2017, 22:45:02|0|logout.php-::1@a|a logged out.
+10-04-2017, 22:45:16|2|login.php-::1@anonymous|Someone tryed to login as a but fails password
+10-04-2017, 22:45:16|0|login.php-::1@anonymous|Something were wrong on this page.
+10-04-2017, 22:45:22|0|login.php-::1@a|a have logged in.
+10-04-2017, 22:45:22|0|login.php-::1@a|Something were wrong on this page.
+10-04-2017, 22:45:22|0|login.php-::1@a|a has tried to login but were already logged.
+10-04-2017, 22:59:21|0|logout.php-::1@a|a logged out.
+10-04-2017, 22:59:21|3|login.php-::1@a|Something stange is going on.
+10-04-2017, 22:59:21|4|login.php-::1@a|A new virus attacked x.x.
+10-04-2017, 22:59:29|0|login.php-::1@admin|admin have logged in.
+10-04-2017, 22:59:29|0|login.php-::1@admin|admin has tried to login but were already logged.
+10-04-2017, 23:00:35|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:01:15|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:01:15|1|users.php-::1@admin|a have been updated
+10-04-2017, 23:01:15|1|users.php-::1@admin|./Users.tmp-1491865275-0.json was created for database update and will replace the current database.
+10-04-2017, 23:01:15|0|users.php-::1@admin|./Users.tmp-1491865275-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:01:38|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:01:38|1|users.php-::1@admin|aa have been updated
+10-04-2017, 23:01:38|1|users.php-::1@admin|./Users.tmp-1491865298-0.json was created for database update and will replace the current database.
+10-04-2017, 23:01:38|0|users.php-::1@admin|./Users.tmp-1491865298-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:01:58|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:01:58|2|users.php-::1@admin|./export/plop-1491855562-0.json have been deleted
+10-04-2017, 23:02:08|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:02:08|0|users.php-::1@admin|export/a-1491865328-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:04:29|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:04:40|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:04:40|0|users.php-::1@admin|export/a-1491865480-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:04:43|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:04:43|0|users.php-::1@admin|export/b-1491865483-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:15:45|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:15:45|0|users.php-::1@admin|export/b-1491866145-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:15:45|0|users.php-::1@admin|User b have been exported to export/b-1491866145-0.json
+10-04-2017, 23:15:50|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:15:50|1|users.php-::1@admin|a have been updated
+10-04-2017, 23:15:50|1|users.php-::1@admin|./Users.tmp-1491866150-0.json was created for database update and will replace the current database.
+10-04-2017, 23:15:50|0|users.php-::1@admin|./Users.tmp-1491866150-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:15:50|1|users.php-::1@admin|database updated from ./Users.tmp-1491866150-0.json for a and updated
+10-04-2017, 23:15:53|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:15:53|1|users.php-::1@admin|aa have been updated
+10-04-2017, 23:15:53|1|users.php-::1@admin|./Users.tmp-1491866153-0.json was created for database update and will replace the current database.
+10-04-2017, 23:15:53|0|users.php-::1@admin|./Users.tmp-1491866153-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:15:53|1|users.php-::1@admin|database updated from ./Users.tmp-1491866153-0.json for aa and updated
+10-04-2017, 23:16:03|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:16:03|1|users.php-::1@admin|azeazr have been created.
+10-04-2017, 23:16:03|1|users.php-::1@admin|User azeazr have been created
+10-04-2017, 23:16:07|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:16:07|0|users.php-::1@admin|azeazr will be white-filled
+10-04-2017, 23:16:07|1|users.php-::1@admin|./Users.tmp-1491866167-0.json was created for database update and will replace the current database.
+10-04-2017, 23:16:07|0|users.php-::1@admin|./Users.tmp-1491866167-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:16:07|1|users.php-::1@admin|User azeazr have been deleted
+10-04-2017, 23:16:14|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:16:14|0|users.php-::1@admin|export/t-1491866174-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:16:14|0|users.php-::1@admin|User t have been exported to export/t-1491866174-0.json
+10-04-2017, 23:16:21|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:16:21|1|users.php-::1@admin|Files in ./export/ matching with *[0-9]*.json have been deleted
+10-04-2017, 23:16:26|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:16:26|0|users.php-::1@admin|export/r-1491866186-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:16:26|0|users.php-::1@admin|User r have been exported to export/r-1491866186-0.json
+10-04-2017, 23:16:29|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:16:29|2|users.php-::1@admin|./cleaned/Users.json.Cleaned-1491854553-0.json have been deleted
+10-04-2017, 23:16:29|1|users.php-::1@admin|./cleaned/Users.json.Cleaned-1491854553-0.json have been deleted
+10-04-2017, 23:16:38|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:16:38|1|users.php-::1@admin|Users.json have been cleaned and saved to ./Users.json.Cleaned-
+10-04-2017, 23:16:38|1|users.php-::1@admin|./Users.json.Cleaned-1491866198-0.json was created for database update and will replace the current database.
+10-04-2017, 23:16:38|0|users.php-::1@admin|./Users.json.Cleaned-1491866198-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:16:38|1|users.php-::1@admin|Users.json have been cleaned to ./Users.json.Cleaned-1491866198-0.json and will replace current database
+10-04-2017, 23:20:51|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:28:41|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:28:41|1|users.php-::1@admin|Users.json have been cleaned and saved to ./Users.json.Cleaned-
+10-04-2017, 23:28:41|1|users.php-::1@admin|./Users.json.Cleaned-1491866921-0.json was created for database update and will replace the current database.
+10-04-2017, 23:28:41|0|users.php-::1@admin|./Users.json.Cleaned-1491866921-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:28:41|1|users.php-::1@admin|Users.json have been cleaned to ./Users.json.Cleaned-1491866921-0.json and will replace current database
+10-04-2017, 23:36:30|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:36:30|1|users.php-::1@admin|Users.json have been cleaned and saved to ./Users.json.Cleaned-
+10-04-2017, 23:36:30|1|users.php-::1@admin|./Users.json.Cleaned-1491867390-0.json was created for database update and will replace the current database.
+10-04-2017, 23:36:30|0|users.php-::1@admin|./Users.json.Cleaned-1491867390-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:36:30|1|users.php-::1@admin|Users.json have been cleaned to ./Users.json.Cleaned-1491867390-0.json and will replace current database
+10-04-2017, 23:37:25|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:37:25|1|users.php-::1@admin|Users.json have been cleaned and saved to ./Users.json.Cleaned-
+10-04-2017, 23:37:25|1|users.php-::1@admin|./Users.json.Cleaned-1491867445-0.json was created for database update and will replace the current database.
+10-04-2017, 23:37:25|0|users.php-::1@admin|./Users.json.Cleaned-1491867445-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:37:25|1|users.php-::1@admin|Users.json have been cleaned to ./Users.json.Cleaned-1491867445-0.json and will replace current database
+10-04-2017, 23:39:26|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:39:26|1|users.php-::1@admin|Users.json have been cleaned and saved to ./Users.json.Cleaned-
+10-04-2017, 23:39:26|1|users.php-::1@admin|./Users.json.Cleaned-1491867566-0.json was created for database update and will replace the current database.
+10-04-2017, 23:39:26|0|users.php-::1@admin|./Users.json.Cleaned-1491867566-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:39:26|1|users.php-::1@admin|Users.json have been cleaned to ./Users.json.Cleaned-1491867566-0.json and will replace current database
+10-04-2017, 23:39:49|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:39:49|1|users.php-::1@admin|Users.json have been cleaned and saved to ./Users.json.Cleaned-
+10-04-2017, 23:39:49|1|users.php-::1@admin|./Users.json.Cleaned-1491867589-0.json was created for database update and will replace the current database.
+10-04-2017, 23:39:49|0|users.php-::1@admin|./Users.json.Cleaned-1491867589-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:39:49|1|users.php-::1@admin|Users.json have been cleaned to ./Users.json.Cleaned-1491867589-0.json and will replace current database
+10-04-2017, 23:54:42|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:54:42|1|users.php-::1@admin|Users.json have been cleaned and saved to ./Users.json.Cleaned-
+10-04-2017, 23:54:42|1|users.php-::1@admin|./Users.json.Cleaned-1491868482-0.json was created for database update and will replace the current database.
+10-04-2017, 23:54:42|0|users.php-::1@admin|./Users.json.Cleaned-1491868482-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:54:42|1|users.php-::1@admin|Users.json have been cleaned to ./Users.json.Cleaned-1491868482-0.json and will replace current database
+10-04-2017, 23:55:52|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:55:52|1|users.php-::1@admin|Users.json have been cleaned and saved to ./Users.json.Cleaned-
+10-04-2017, 23:55:52|1|users.php-::1@admin|./Users.json.Cleaned-1491868552-0.json was created for database update and will replace the current database.
+10-04-2017, 23:55:52|0|users.php-::1@admin|./Users.json.Cleaned-1491868552-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:55:52|1|users.php-::1@admin|Users.json have been cleaned to ./Users.json.Cleaned-1491868552-0.json and will replace current database
+10-04-2017, 23:55:57|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:55:57|1|users.php-::1@admin|Users.json have been cleaned and saved to ./Users.json.Cleaned-
+10-04-2017, 23:55:57|1|users.php-::1@admin|./Users.json.Cleaned-1491868557-0.json was created for database update and will replace the current database.
+10-04-2017, 23:55:57|0|users.php-::1@admin|./Users.json.Cleaned-1491868557-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:55:57|1|users.php-::1@admin|Users.json have been cleaned to ./Users.json.Cleaned-1491868557-0.json and will replace current database
+10-04-2017, 23:56:13|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:56:13|1|users.php-::1@admin|Users.json have been cleaned and saved to ./Users.json.Cleaned-
+10-04-2017, 23:56:13|1|users.php-::1@admin|./Users.json.Cleaned-1491868573-0.json was created for database update and will replace the current database.
+10-04-2017, 23:56:13|0|users.php-::1@admin|./Users.json.Cleaned-1491868573-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:56:13|1|users.php-::1@admin|Users.json have been cleaned to ./Users.json.Cleaned-1491868573-0.json and will replace current database
+10-04-2017, 23:56:16|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:56:16|1|users.php-::1@admin|Users.json have been cleaned and saved to ./Users.json.Cleaned-
+10-04-2017, 23:56:16|1|users.php-::1@admin|./Users.json.Cleaned-1491868576-0.json was created for database update and will replace the current database.
+10-04-2017, 23:56:16|0|users.php-::1@admin|./Users.json.Cleaned-1491868576-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:56:16|1|users.php-::1@admin|Users.json have been cleaned to ./Users.json.Cleaned-1491868576-0.json and will replace current database
+10-04-2017, 23:56:40|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:56:41|1|users.php-::1@admin|Users.json have been cleaned and saved to ./Users.json.Cleaned-
+10-04-2017, 23:56:41|1|users.php-::1@admin|./Users.json.Cleaned-1491868601-0.json was created for database update and will replace the current database.
+10-04-2017, 23:56:41|0|users.php-::1@admin|./Users.json.Cleaned-1491868601-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:56:41|1|users.php-::1@admin|Users.json have been cleaned to ./Users.json.Cleaned-1491868601-0.json and will replace current database
+10-04-2017, 23:57:04|1|admin.php-::1@admin|admin connected to Admin page
+10-04-2017, 23:57:04|1|users.php-::1@admin|Users.json have been cleaned and saved to ./Users.json.Cleaned-
+10-04-2017, 23:57:04|1|users.php-::1@admin|./Users.json.Cleaned-1491868624-0.json was created for database update and will replace the current database.
+10-04-2017, 23:57:04|0|users.php-::1@admin|./Users.json.Cleaned-1491868624-0.json was created for database update but the main database wasn't updated.
+10-04-2017, 23:57:04|1|users.php-::1@admin|Users.json have been cleaned to ./Users.json.Cleaned-1491868624-0.json and will replace current database
+10-04-2017, 23:57:15|1|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:13:11|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:16:24|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:17:37|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:18:33|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:29:11|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:38:47|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:39:45|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:40:38|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:41:49|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:42:25|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:45:50|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:46:16|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:46:22|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:46:24|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:47:32|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:47:58|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:48:59|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:51:14|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:51:57|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:52:04|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:52:26|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:52:42|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:53:27|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:54:09|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:57:00|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 00:58:09|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:10:06|0|login.php-::1@admin|admin have logged in.
+11-04-2017, 11:10:06|0|login.php-::1@admin|admin has tried to login but were already logged.
+11-04-2017, 11:10:10|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:13:37|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:13:37|1|users.php-::1@admin|pipo have been updated
+11-04-2017, 11:13:37|1|users.php-::1@admin|./Users.tmp-1491909217-0.json was created for database update and will replace the current database.
+11-04-2017, 11:13:37|0|users.php-::1@admin|./Users.tmp-1491909217-0.json was created for database update but the main database wasn't updated.
+11-04-2017, 11:13:37|1|users.php-::1@admin|database updated from ./Users.tmp-1491909217-0.json for pipo and updated
+11-04-2017, 11:18:54|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:18:54|1|users.php-::1@admin|./Users.tmp-1491909534-0.json was created for database update and will replace the current database.
+11-04-2017, 11:18:54|0|users.php-::1@admin|./Users.tmp-1491909534-0.json was created for database update but the main database wasn't updated.
+11-04-2017, 11:18:54|1|users.php-::1@admin|database updated from ./Users.tmp-1491909534-0.json for pipo and updated
+11-04-2017, 11:26:31|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:26:31|1|users.php-::1@admin|./Users.tmp-1491909991-0.json was created for database update and will replace the current database.
+11-04-2017, 11:26:31|0|users.php-::1@admin|./Users.tmp-1491909991-0.json was created for database update but the main database wasn't updated.
+11-04-2017, 11:26:31|1|users.php-::1@admin|database updated from ./Users.tmp-1491909991-0.json for pipo and updated
+11-04-2017, 11:38:57|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:38:57|1|users.php-::1@admin|./Users.tmp-1491910737-0.json was created for database update and will replace the current database.
+11-04-2017, 11:38:57|0|users.php-::1@admin|./Users.tmp-1491910737-0.json was created for database update but the main database wasn't updated.
+11-04-2017, 11:38:57|1|users.php-::1@admin|database updated from ./Users.tmp-1491910737-0.json for pipo and updated
+11-04-2017, 11:39:33|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:39:33|1|users.php-::1@admin|./Users.tmp-1491910773-0.json was created for database update and will replace the current database.
+11-04-2017, 11:39:33|0|users.php-::1@admin|./Users.tmp-1491910773-0.json was created for database update but the main database wasn't updated.
+11-04-2017, 11:39:33|1|users.php-::1@admin|database updated from ./Users.tmp-1491910773-0.json for pipo and updated
+11-04-2017, 11:39:47|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:39:47|1|users.php-::1@admin|./Users.tmp-1491910787-0.json was created for database update and will replace the current database.
+11-04-2017, 11:39:47|0|users.php-::1@admin|./Users.tmp-1491910787-0.json was created for database update but the main database wasn't updated.
+11-04-2017, 11:39:47|1|users.php-::1@admin|database updated from ./Users.tmp-1491910787-0.json for pipo and updated
+11-04-2017, 11:40:00|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:40:00|1|users.php-::1@admin|./Users.tmp-1491910800-0.json was created for database update and will replace the current database.
+11-04-2017, 11:40:00|0|users.php-::1@admin|./Users.tmp-1491910800-0.json was created for database update but the main database wasn't updated.
+11-04-2017, 11:40:00|1|users.php-::1@admin|database updated from ./Users.tmp-1491910800-0.json for pipo and updated
+11-04-2017, 11:41:11|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:41:11|1|users.php-::1@admin|./Users.tmp-1491910871-0.json was created for database update and will replace the current database.
+11-04-2017, 11:41:11|0|users.php-::1@admin|./Users.tmp-1491910871-0.json was created for database update but the main database wasn't updated.
+11-04-2017, 11:41:11|1|users.php-::1@admin|database updated from ./Users.tmp-1491910871-0.json for pipo and updated
+11-04-2017, 11:42:08|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:42:08|1|users.php-::1@admin|./Users.tmp-1491910928-0.json was created for database update and will replace the current database.
+11-04-2017, 11:42:08|0|users.php-::1@admin|./Users.tmp-1491910928-0.json was created for database update but the main database wasn't updated.
+11-04-2017, 11:42:08|1|users.php-::1@admin|database updated from ./Users.tmp-1491910928-0.json for pipo and updated
+11-04-2017, 11:43:12|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:43:12|1|users.php-::1@admin|./Users.tmp-1491910992-0.json was created for database update and will replace the current database.
+11-04-2017, 11:43:12|0|users.php-::1@admin|./Users.tmp-1491910992-0.json was created for database update but the main database wasn't updated.
+11-04-2017, 11:43:12|1|users.php-::1@admin|database updated from ./Users.tmp-1491910992-0.json for pipo and updated
+11-04-2017, 11:43:39|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:43:39|1|users.php-::1@admin|./Users.tmp-1491911019-0.json was created for database update and will replace the current database.
+11-04-2017, 11:43:39|0|users.php-::1@admin|./Users.tmp-1491911019-0.json was created for database update but the main database wasn't updated.
+11-04-2017, 11:43:39|1|users.php-::1@admin|database updated from ./Users.tmp-1491911019-0.json for pipo and updated
+11-04-2017, 11:44:37|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:44:37|1|users.php-::1@admin|./Users.tmp-1491911077-0.json was created for database update and will replace the current database.
+11-04-2017, 11:44:37|0|users.php-::1@admin|./Users.tmp-1491911077-0.json was created for database update but the main database wasn't updated.
+11-04-2017, 11:44:37|1|users.php-::1@admin|database updated from ./Users.tmp-1491911077-0.json for pipo and updated
+11-04-2017, 11:44:59|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:44:59|1|users.php-::1@admin|./Users.tmp-1491911099-0.json was created for database update and will replace the current database.
+11-04-2017, 11:44:59|0|users.php-::1@admin|./Users.tmp-1491911099-0.json was created for database update but the main database wasn't updated.
+11-04-2017, 11:44:59|1|users.php-::1@admin|database updated from ./Users.tmp-1491911099-0.json for pipo and updated
+11-04-2017, 11:45:20|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:45:20|1|users.php-::1@admin|./Users.tmp-1491911120-0.json was created for database update and will replace the current database.
+11-04-2017, 11:45:20|0|users.php-::1@admin|./Users.tmp-1491911120-0.json was created for database update but the main database wasn't updated.
+11-04-2017, 11:45:20|1|users.php-::1@admin|database updated from ./Users.tmp-1491911120-0.json for pipo and updated
+11-04-2017, 11:45:37|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:45:37|1|users.php-::1@admin|./Users.tmp-1491911137-0.json was created for database update and will replace the current database.
+11-04-2017, 11:45:37|0|users.php-::1@admin|./Users.tmp-1491911137-0.json was created for database update but the main database wasn't updated.
+11-04-2017, 11:45:37|1|users.php-::1@admin|database updated from ./Users.tmp-1491911137-0.json for pipo and updated
+11-04-2017, 11:45:53|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:45:53|1|users.php-::1@admin|./Users.tmp-1491911153-0.json was created for database update and will replace the current database.
+11-04-2017, 11:45:53|0|users.php-::1@admin|./Users.tmp-1491911153-0.json was created for database update but the main database wasn't updated.
+11-04-2017, 11:45:53|1|users.php-::1@admin|database updated from ./Users.tmp-1491911153-0.json for pipo and updated
+11-04-2017, 11:46:46|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:46:46|1|users.php-::1@admin|./Users.tmp-1491911206-0.json was created for database update and will replace the current database.
+11-04-2017, 11:46:46|0|users.php-::1@admin|./Users.tmp-1491911206-0.json was created for database update but the main database wasn't updated.
+11-04-2017, 11:46:46|1|users.php-::1@admin|database updated from ./Users.tmp-1491911206-0.json for pipo and updated
+11-04-2017, 11:46:59|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:46:59|1|users.php-::1@admin|./Users.tmp-1491911219-0.json was created for database update and will replace the current database.
+11-04-2017, 11:46:59|0|users.php-::1@admin|./Users.tmp-1491911219-0.json was created for database update but the main database wasn't updated.
+11-04-2017, 11:46:59|1|users.php-::1@admin|database updated from ./Users.tmp-1491911219-0.json for pipo and updated
+11-04-2017, 11:49:31|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:50:58|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:51:40|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:53:04|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:54:02|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:55:10|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:56:17|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 11:59:34|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 12:00:15|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 12:04:55|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 12:08:11|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 12:12:44|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 12:14:01|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 12:16:50|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 12:17:28|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 12:21:10|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 12:22:00|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 12:22:38|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 12:23:22|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 12:24:27|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 12:24:56|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 12:27:20|0|admin.php-::1@admin|admin connected to Admin page
+11-04-2017, 12:29:20|0|admin.php-::1@admin|admin connected to Admin page
