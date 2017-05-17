@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#222a34">
 
-<link rel="prefetch" href="index.php">
+<!--link rel="prefetch" href="index.php"-->
 <link rel="dns-prefetch" href="//127.0.0.1/">
 <link rel="stylesheet" href="<?php echo ROOTPATH; ?>styles.css" >
 <link rel="stylesheet" href="<?php echo ROOTPATH; ?>css/Pho3-Flatty.css" >

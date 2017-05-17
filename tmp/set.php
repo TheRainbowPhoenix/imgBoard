@@ -1,5 +1,7 @@
 <?php
-$trootpath=dirname($_SERVER['PHP_SELF']).'/';
+$trootpath=dirname($_SERVER['PHP_SELF']);
+
+if (! ($trootpath=='/' || $trootpath=='\\'))  $trootpath=$trootpath.'/';
 
 $reading = fopen('connect.php', 'r');
 $writing = fopen('connect.php.tmp', 'w');
