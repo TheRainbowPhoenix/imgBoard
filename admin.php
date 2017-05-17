@@ -96,6 +96,7 @@ if(strpos($_SESSION['username'], "admin")!== false) {
 	  $rmuser = @trim($_GET['rmuser']);
 		if ($rmuser !== "admin") {
 			$nstatut = QueueChanges(removeUser($filename, $rmuser), true);
+			cleanRmUser($rmuser);
 			//echo $nstatut;
 			$smsg = "User ".$rmuser." have been deleted";
 			$hmessage = "User ".$rmuser." have been deleted";

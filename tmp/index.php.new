@@ -47,7 +47,7 @@ function randomGen($ucount=1, $dcount=1){
 	$visited = array();
 
 	foreach ($database as $it) {
-		if($it["name"] !== "admin" && $it["name"] != null && $it["name"] != "" ) {
+		if($it["name"] != null && $it["name"] != "" ) {
 		  array_push($userslist, $it["name"]);
 		  $userscount++;
 		}
@@ -65,9 +65,11 @@ function randomGen($ucount=1, $dcount=1){
 		$postslist = array();
 		$randuser = $userslist[rand( 0 , $userscount-1 )];
 		$randompage = "./Boards/".$randuser."/index.php";
+		$lim = 0;
 
-		while (!(file_exists("./Boards/".$randuser."/board.json"))) {
+		while (!(file_exists("./Boards/".$randuser."/board.json")) && $lim<$userscount) {
 			$randuser = $userslist[rand( 0 , $userscount-1 )];
+			$lim++;
 		}
 		$file = null;
 		while ($postcount <= 3 && !file_exists($file)) {
@@ -150,7 +152,7 @@ function randomGen($ucount=1, $dcount=1){
 				</div>
 				<div class="card-content">
 					<div class="input-group">
-						<?php randomGen(3,4); trendGen(8);?>
+						<?php randomGen(2,4); trendGen(8);?>
 					</div>
 				</div>
 		</div>

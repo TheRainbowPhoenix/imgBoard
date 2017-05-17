@@ -40,7 +40,7 @@ function modifyBoard($path="./", $name = null, $desc = null, $tags= null, $uploa
   if (!@fopen($filename, 'r ')) {
     @fopen($filename, 'w+');
     $boardname = basename(__DIR__);
-    $hmessage = $username." created the missing Board file on ".$boardname;
+    $hmessage = $name." created the missing Board file on ".$boardname;
     HandleLog(3,$hmessage,"board.php","../../logs/");
   }
   $readable = fopen($filename, 'r ');

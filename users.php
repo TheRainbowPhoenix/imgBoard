@@ -40,11 +40,8 @@ function addUser($filename, $username, $email, $password, $boards = null)
   if (ftell($readable) > 0)
     {
         fseek($readable, -1, SEEK_END);
-
         fwrite($readable, ',', 1);
-
         fwrite($readable, json_encode($struct, JSON_PRETTY_PRINT) . ']');
-
         $return = true;
     }
     else
@@ -55,6 +52,13 @@ function addUser($filename, $username, $email, $password, $boards = null)
     fclose($readable);
 
     @mkdir("./Boards/".$username);
+
+	@copy('./base/comments.php', './Boards/'.$username.'/comments.php');
+	@copy('./base/index.php', './Boards/'.$username.'/index.php');
+	@copy('./base/view.php', './Boards/'.$username.'/view.php');
+
+	modifyBoard("./Boards/".$username."/",$username,$username."'s board","",$username,$username);
+	
 
     $hmessage = $username." have been created.";
     HandleLog(1,$hmessage,"users.php");
@@ -183,6 +187,13 @@ function removeUser($filename, $username)
     }
     fclose($readable);
     return $database;
+}
+
+function cleanRmUser($username) {
+	if ($username == "admin") return 1;
+	array_map('unlink', glob("./Boards/".$username."/*.*"));
+	rmdir("./Boards/".$username."/");
+	return 0;
 }
 
 function modifyUser($filename, $origin, $username = null, $mail = null, $psw = null, $boards = null) {
