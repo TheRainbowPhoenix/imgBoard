@@ -4,6 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8">
     <title>imgBoard - Acceuil</title>
+<meta http-equiv="cache-control" content="no-cache">
 	<link rel="stylesheet" href="styles.css" >
 	<link rel="stylesheet" href="css/Pho3-Flatty.css" >
 	<link rel="stylesheet" href="css/Pho3-Flatty-Color-Scheme.css" >

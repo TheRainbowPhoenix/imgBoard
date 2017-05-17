@@ -1,5 +1,7 @@
 <?php
-$trootpath=dirname($_SERVER['PHP_SELF']).'/';
+$trootpath=dirname($_SERVER['PHP_SELF']);
+
+if (! ($trootpath=='/' || $trootpath=='\\'))  $trootpath=$trootpath.'/';
 
 $reading = fopen('connect.php', 'r');
 $writing = fopen('connect.php.tmp', 'w');
@@ -23,9 +25,7 @@ if ($replaced)
   unlink('connect.php.tmp');
 }
 
-unlink('index.php');
 unlink('welcome.php');
-rename('index.php.new', 'index.php');
 unlink('set.php');
 header("location: login.php");
 ?>

@@ -25,9 +25,7 @@ if ($replaced)
   unlink('connect.php.tmp');
 }
 
-unlink('index.php');
 unlink('welcome.php');
-rename('index.php.new', 'index.php');
 unlink('set.php');
 header("location: login.php");
 ?>
