@@ -2,7 +2,7 @@ Heyya ! Welcome to imgBoard
 =========================
 
 
-Right now you're lookign at the fresh **imgBoard**[^stackedit]. When you download it, you download the installable version of imgBoard with auto configuration. If you need live example take a look of   [<i class="icon-globe"></i> Online version](http://imgboard.esy.es)
+Right now you're lookign at the fresh **imgBoard**. When you download it, you download the installable version of imgBoard with auto configuration. If you need live example take a look of   [<i class="icon-globe"></i> Online version](http://imgboard.esy.es)
 
 ----------
 
@@ -25,8 +25,5 @@ The admin panel is accessible on the menu when you're logged in. You can add, re
 
 Of course you can do this ! Just login as *admin* and check databases option
 
-<<<<<<< HEAD
 > **Tip:** You can use multiples databases
-=======
-> **Tip:** You can use multiples databases
->>>>>>> origin/master
+
