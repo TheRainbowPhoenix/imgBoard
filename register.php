@@ -2,6 +2,7 @@
 
 //session_start();
 require_once('session.php');
+require_once('board.php');
 if(isset($_POST) & !empty($_POST)){
 	$error = 0;
 	$database = json_decode($datas,true);
@@ -54,6 +55,9 @@ if(isset($_POST) & !empty($_POST)){
 			copy('./base/comments.php', './Boards/'.$username.'/comments.php');
 			copy('./base/index.php', './Boards/'.$username.'/index.php');
 			copy('./base/view.php', './Boards/'.$username.'/view.php');
+			//modifyBoard($path="./", $name = null, $desc = null, $tags= null, $uploaders = null,$owner = null)
+			
+			modifyBoard("./Boards/".$username."/",$username,$username."'s board","",$username,$username);
 
 			$smsg = "Welcome to imgBoard ".$username;
 			$_SESSION['username'] = $username;

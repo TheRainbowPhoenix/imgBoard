@@ -4,7 +4,7 @@ require_once('log.php');
 
 function IsOwner($path="./", $name) {
   $filename = $path."board.json";
-  $readable = fopen($filename, 'r ');
+  $readable = fopen($filename, 'r ') or fopen($filename, 'w+ ');
 
   if (!$readable) die("file error x_x");
   $datas = file_get_contents($filename);
@@ -22,7 +22,7 @@ function IsOwner($path="./", $name) {
 
 function GetPostDetails($path="./", $id=null) {
   $filename = $path."board.json";
-  $readable = fopen($filename, 'r ');
+  $readable = fopen($filename, 'r ') or fopen($filename, 'w+ ');
 
   if (!$readable) die("file error x_x");
   $datas = file_get_contents($filename);
