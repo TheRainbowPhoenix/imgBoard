@@ -24,27 +24,27 @@
 			<div class="header-content-inner">
 				
 			<?php if (file_exists('./set.php')) { ?> 
-				<h1>Hohoho, it looks like the board isn't fixed yet ... Could you please be patient ? ;)</h1>
-				</div>
-				<div class="card midgrey botinfo">
-				<div class="card-title">
-				  <li class="list-item" style="width: 100%;">
-					<div class="list-content">
-					  <a class="list-item-title">Note to the webmaster</a>
+					<h1>Hohoho, it looks like the board isn't fixed yet ... Could you please be patient ? ;)</h1>
+					<div class="card midgrey botinfo">
+						<div class="card-title">
+						  <li class="list-item" style="width: 100%;">
+							<div class="list-content">
+							  <a class="list-item-title">Note to the webmaster</a>
+							</div>
+						</div>
+						<div class="card-content">
+							<p>If you can read me, it's because imgBoard have been successfully installed !</p>
+							<p>There's one more step before going, please edit your <span class="tag">connect.php</span> file</p><br/>
+							<p>Please remove this page after setup. Admin account default password is <span class="tag">admin</span></p>
+							<p>You must change in on the admin panel (connect as admin and get it from the menu)</p>
+						</div>
+						<div class="card-footer">
+							<div class="card-actions">
+								<a class="right btn-main btn btn-primary btn-block" href="set.php">Use auto config</a>
+							</div>
+						</div>
 					</div>
 				</div>
-				<div class="card-content">
-					<p>If you can read me, it's because imgBoard have been successfully installed !</p>
-					<p>There's one more step before going, please edit your <span class="tag">connect.php</span> file</p><br/>
-					<p>Please remove this page after setup. Admin account default password is <span class="tag">admin</span></p>
-					<p>You must change in on the admin panel (connect as admin and get it from the menu)</p>
-				</div>
-				<div class="card-footer">
-					<div class="card-actions">
-						<a class="right btn-main btn btn-primary btn-block" href="set.php">Use auto config</a>
-					</div>
-				</div>
-			</div>
 			<?php } else {?>
 				<h1>An eggcellent way to share your pictures with the internet. Make your Board a part of yourself and share the fun !</h1>
 					<a href="register.php" class="btn btn-primary btn-block btn-lg">Let's go!</a>
@@ -70,8 +70,8 @@
 			height: calc( 100vh - 120px);
 		}
 		.header-content-inner {
+			margin: 100px 8px 25px 8px;
 			max-width: none;
-			margin: 0;
 			position: absolute;
 			top: 40%;
 			transform: translateY(-50%);
@@ -79,9 +79,29 @@
 		.btn {
 			border: 2px solid #222a34;
 		}
+		@media (max-width: 850px) {
+			.botinfo {
+				bottom: auto;
+				position: initial;
+			}
+		}
+		ul.lactions-container {
+			display: none;
+		}
+		.logo-pp {
+			background: url(Boards/public/thumbs/sanic.png);
+			border-radius: 50%;
+			width: 96px;
+			height: 96px;
+			border: 2px dashed rgba(12,179,134,0.8);
+		}
+		.logo-pp a {
+			display: none;
+		}
+		
 		.botinfo {
 			bottom: 0;
-			position: absolute;
+			position: initial;
 		}
 		.botinfo .btn {
 			border: inherit;
