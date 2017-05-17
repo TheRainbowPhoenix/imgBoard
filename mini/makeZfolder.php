@@ -1,5 +1,0 @@
-<?php
-
-mkdir("./Boards/z");
-
- ?>

@@ -1,0 +1,33 @@
+17-05-2017, 17:41:34|1|users.php-::1@admin|Log was cleaned
+17-05-2017, 17:41:39|1|admin.php-::1@admin|./Boards/1337Masterz/149229273531ebe03.jpg.json : Comment(s) "An interesting post bro !" from "admin" have been deleted
+17-05-2017, 17:41:45|1|admin.php-::1@admin|./Boards/SpaceCatz/149155364903be013.jpg.json : Comment(s) "Noice catz bro' !" from "x" have been deleted
+17-05-2017, 17:41:47|1|admin.php-::1@admin|./Boards/SpaceCatz/14915536986a0173f.jpg.json : Comment(s) "An interesting post bro !" from "admin" have been deleted
+17-05-2017, 17:41:49|1|admin.php-::1@admin|./Boards/admin/1491517684e90cb8a.png.json : Comment(s) "An interesting post bro !" from "admin" have been deleted
+17-05-2017, 17:41:51|1|admin.php-::1@admin|./Boards/bla/1492125152b60a323.jpg.json : Comment(s) "An interesting post bro' !" from "bla" have been deleted
+17-05-2017, 17:42:00|1|admin.php-::1@admin|./Boards/x/1493989640da41a72.jpg.json : Comment(s) "An interesting post bro !" from "x" have been deleted
+17-05-2017, 17:42:05|1|admin.php-::1@admin|./Boards/u/149117051906960ae.jpg.json : Comment(s) "An interesting post bro !" from "admin" have been deleted
+17-05-2017, 17:42:39|0|SpaceCatz/view.php-::1@admin|admin connected to SpaceCatz page
+17-05-2017, 17:42:39|0|SpaceCatz/index.php-::1@admin|admin connected to SpaceCatz board
+17-05-2017, 17:42:47|0|SpaceCatz/view.php-::1@admin|admin connected to SpaceCatz page
+17-05-2017, 17:42:47|0|comments.php-::1@admin|admin commented Spaaace on post id 149155364903be013.jpg (board of SpaceCatz)
+17-05-2017, 17:42:47|0|SpaceCatz/view.php-::1@admin|admin connected to SpaceCatz page
+17-05-2017, 17:42:47|0|SpaceCatz/index.php-::1@admin|admin connected to SpaceCatz board
+17-05-2017, 17:42:53|0|SpaceCatz/view.php-::1@admin|admin connected to SpaceCatz page
+17-05-2017, 17:42:54|0|SpaceCatz/index.php-::1@admin|admin connected to SpaceCatz board
+17-05-2017, 17:43:08|0|SpaceCatz/view.php-::1@admin|admin connected to SpaceCatz page
+17-05-2017, 17:43:08|0|comments.php-::1@admin|admin commented Captain Cat iz cool :3 on post id 14915536986a0173f.jpg (board of SpaceCatz)
+17-05-2017, 17:43:08|0|SpaceCatz/view.php-::1@admin|admin connected to SpaceCatz page
+17-05-2017, 17:43:08|0|SpaceCatz/index.php-::1@admin|admin connected to SpaceCatz board
+17-05-2017, 17:43:20|0|users.php-::1@admin|export/SpaceCatz-1495043000-0.json was created for database update but the main database wasn't updated.
+17-05-2017, 17:43:20|0|users.php-::1@admin|User SpaceCatz have been exported to export/SpaceCatz-1495043000-0.json
+17-05-2017, 17:44:09|0|users.php-::1@admin|export/SpaceCatz-1495043049-0.json was created for database update but the main database wasn't updated.
+17-05-2017, 17:44:09|0|users.php-::1@admin|User SpaceCatz have been exported to export/SpaceCatz-1495043049-0.json
+17-05-2017, 17:44:12|2|users.php-::1@admin|./export/SpaceCatz-1495043049-0.json have been deleted
+17-05-2017, 17:44:12|1|users.php-::1@admin|./export/SpaceCatz-1495043049-0.json have been deleted
+17-05-2017, 17:48:49|0|logout.php-::1@admin|admin logged out.
+17-05-2017, 17:48:56|0|login.php-::1@admin|admin have logged in.
+17-05-2017, 17:50:37|0|logout.php-::1@admin|admin logged out.
+17-05-2017, 17:50:45|2|login.php-::1@anonymous|Someone tryed to login as admin but fails password
+17-05-2017, 17:50:51|0|login.php-::1@admin|admin have logged in.
+17-05-2017, 17:51:11|1|admin.php-::1@admin|./Boards/public/1493321532a5d22fe.jpg.json : Comment(s) "An interesting post bro !" from "l" have been deleted
+17-05-2017, 17:51:29|0|logout.php-::1@admin|admin logged out.
