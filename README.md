@@ -25,4 +25,8 @@ The admin panel is accessible on the menu when you're logged in. You can add, re
 
 Of course you can do this ! Just login as *admin* and check databases option
 
+<<<<<<< HEAD
 > **Tip:** You can use multiples databases
+=======
+> **Tip:** You can use multiples databases
+>>>>>>> origin/master
