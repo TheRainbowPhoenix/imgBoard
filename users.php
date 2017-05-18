@@ -192,7 +192,7 @@ function removeUser($filename, $username)
 function cleanRmUser($username) {
 	if ($username == "admin") return 1;
 	array_map('unlink', glob("./Boards/".$username."/*.*"));
-   array_map('unlink', glob("./Boards/".$username."/thumbs/"));
+   array_map('unlink', glob("./Boards/".$username."/thumbs/*.*"));
    @rmdir("./Boards/".$username."/thumbs/");
 	@rmdir("./Boards/".$username."/");
 	return 0;
